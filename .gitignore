@@ -42,9 +42,8 @@ env/
 rec_*.wav
 recording_*.wav
 
-# Sessions
-*.json
-!package.json
+# Sessions (keep test_session.json)
+test_session.json
 
 # OS
 .DS_Store
